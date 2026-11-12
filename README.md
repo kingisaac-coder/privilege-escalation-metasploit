@@ -1,4 +1,4 @@
-# Privilege Escalation via Metasploit & Meterpreter — CEH Module 06
+# Privilege Escalation via Metasploit & Meterpreter 
 
 A hands-on lab demonstrating privilege escalation and post-exploitation techniques against a Windows target using the Metasploit Framework and Meterpreter, performed entirely within an isolated virtual lab environment (Parrot Security OS attacker machine + Windows 10 victim VM on a private host-only network).
 
